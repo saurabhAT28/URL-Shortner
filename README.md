@@ -17,4 +17,3 @@ This project is an URL shortner where you can see the stats related to the click
 # To check shorten url 
 Enter loacalhost:5173/Custom whatever written in blur after trimrr.in/
 
-For more any quries contact __.saurya.__ on instagram
